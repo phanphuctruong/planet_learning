@@ -1,0 +1,6 @@
+{
+  "name": "Trạm Vũ Trụ Pythonia - A.X.E.L Gamified Python Studio",
+  "description": "Hệ thống thiết kế và học bài giảng lập trình Python trực quan, gamified 5E cho học sinh THCS cùng Robot A.X.E.L trên Tàu Thám Hiểm Pythonia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
